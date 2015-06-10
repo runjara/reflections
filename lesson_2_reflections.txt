@@ -17,3 +17,7 @@ When making experimental or big changes to the project and treat it separately, 
 How do the diagrams help you visualize the branch structure?
 
 it helps visualizing all the commits and its branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is one branch containing all the commits of the merged branches. It gives us a global vision of the branches and commits
