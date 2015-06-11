@@ -21,3 +21,7 @@ it helps visualizing all the commits and its branches.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is one branch containing all the commits of the merged branches. It gives us a global vision of the branches and commits
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git can handle well the commits that don't have conflicts. When a conflict is present a human must validate which version is the correct one.
