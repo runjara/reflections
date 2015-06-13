@@ -5,3 +5,7 @@ When working on a team, sharing work for public revision, or mantaining a backup
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because the remote can differ with the local repository and merging changes its not always automatic, conflicts may appear when many people is working on the same repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a GitHub feature for cloning repos right into GitHub servers. Clone is used to fetch a remote repository or copy a local repository. Branch is used when creating a new feature or experiment and wishing to mantain a production ready copy of the code.
