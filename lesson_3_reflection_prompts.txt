@@ -17,3 +17,7 @@ The posibility of merging changes with the local working copy, and to check the 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Sending e-mails to coworkers when a change was made to the project. Will be harder to merge changes and track those changes along the way. Will be easier to start the project because nobody will need a github account to start with.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When colaborating with an open source project, this will allow the owner of the repository to check all pull requests and chose wich is usefull to merge directly. When working in an own repository is better to work in the master branch.
